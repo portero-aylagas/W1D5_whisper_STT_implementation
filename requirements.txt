@@ -1,7 +1,3 @@
 openai
 python-dotenv
 pydub
-sounddevice
-numpy
-scipy
-ipython
