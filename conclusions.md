@@ -11,9 +11,10 @@ Chunking helps to:
 - Avoid very long requests that may fail or be slow
 - Reduce weird repetitions or hallucinations
 - Make processing more stable
-
+  
 It also allows adding timestamps more easily and tracking progress chunk by chunk.
 One disadvantage was, if not indicating the language, the chunks are lacking context of the whole audio and language is missidentified.
+
 ---
 
 ## 3. Challenges Faced
